@@ -22,8 +22,6 @@ Screenshots of Audacity interface:
 
 <img width="1151" height="556" alt="audacity-dashboard" src="https://github.com/user-attachments/assets/a6fa3a69-3a23-4851-a00c-27369872c1e7" />
 
-![audacity-effects](https://github.com/user-attachments/assets/6d4f6aba-00ba-43cf-95e5-d795f8fca35b)
-
 ---
 
 ## 🎯 Key Features
